@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "440879247707",
+    "firebase_url": "https://happiness-7367c.firebaseio.com",
+    "project_id": "happiness-7367c",
+    "storage_bucket": "happiness-7367c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440879247707:android:ae66e65e9179ce73",
+        "android_client_info": {
+          "package_name": "com.android.www.happines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440879247707-vtcoccmh8dpupfv02gvpirun7tekt9kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.www.happines",
+            "certificate_hash": "d772f539260ff05e5fcd8acd1262494a7a36e484"
+          }
+        },
+        {
+          "client_id": "440879247707-jga1pr8sd56q94fs7kkscliandco31v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcWOsXinrfiRGuseMifOAu0y2qx6c21M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440879247707-jga1pr8sd56q94fs7kkscliandco31v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
